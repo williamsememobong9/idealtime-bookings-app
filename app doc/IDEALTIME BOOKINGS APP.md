@@ -50,9 +50,11 @@ Idealtime Bookings will solve common problems associated with accommodation book
 
 ---
 
-# **4\. Target Users**
+# **4\. User Groups**
 
-## **A. Guests / Customers**
+The platform has two user groups only.
+
+## **A. Guests**
 
 People looking for:
 
@@ -66,7 +68,7 @@ People looking for:
 * Relocation accommodation  
 * Event accommodation
 
-### **Customer segments**
+### **Guest segments**
 
 * Business travellers  
 * Families  
@@ -77,76 +79,27 @@ People looking for:
 * Contractors  
 * Students  
 * NYSC participants  
-* Corporate employees  
+* Corporate employees (book as guests under a business profile)  
 * Relocating individuals  
 * Event attendees
 
----
-
-# **5\. Property Owners**
-
-Individuals or companies that own accommodation properties and want to:
-
-* List properties  
-* Receive bookings  
-* Manage availability  
-* Manage pricing  
-* Communicate with guests  
-* Track revenue  
-* Receive payments  
-* Collect reviews
+Anyone booking on behalf of someone else (including agents booking for clients) acts as a guest for that booking.
 
 ---
 
-# **6\. Property Managers**
+## **B. Hosts**
 
-Professional property managers managing multiple properties for owners.
+Individuals or companies that list accommodation and receive bookings. Host subtypes share the same listing, availability, booking, guest, cleaning, maintenance, and revenue tools. They differ only by verification and permissions:
 
-They should be able to:
+* **Owner-hosts:** list own properties. Can list, receive bookings, manage availability and pricing, communicate with guests, track revenue, receive payments, collect reviews.
+* **Manager-hosts:** manage properties for owners. Additionally manage multiple properties and calendars, guests, cleaners, maintenance, and reports.
+* **Agent-hosts:** verified agents listing properties they are authorized to represent. Additionally manage inquiries and clients, make bookings for clients, track commissions, maintain a professional profile.
 
-* Manage multiple properties  
-* Manage multiple calendars  
-* Manage bookings  
-* Manage guests  
-* Manage cleaners  
-* Manage maintenance  
-* Track revenue  
-* Generate reports
+Companies needing accommodation for staff (employees, executives, consultants, contractors, visitors, project teams) book as guests, with dedicated business profiles and billing where applicable.
 
 ---
 
-# **7\. Agents**
-
-Verified accommodation agents who connect customers with properties.
-
-Agents should be able to:
-
-* List authorized properties  
-* Manage customer inquiries  
-* Make bookings  
-* Track commissions  
-* Manage clients  
-* Maintain a professional profile
-
----
-
-# **8\. Corporate Customers**
-
-Companies that need accommodation for:
-
-* Employees  
-* Executives  
-* Consultants  
-* Contractors  
-* Visitors  
-* Business travellers  
-* Project teams
-
-Corporate customers should eventually have dedicated business accounts.
-
----
-
-# **9\. IDEALTIME'S CORE VALUE PROPOSITION**
+# **5\. IDEALTIME'S CORE VALUE PROPOSITION**
 
 The platform will be built around five principles:
 
@@ -172,7 +125,7 @@ Idealtime remains available to assist customers and property partners when probl
 
 ---
 
-# **10\. CORE CUSTOMER JOURNEY**
+# **6\. CORE CUSTOMER JOURNEY**
 
 The complete customer journey should be:
 
@@ -202,9 +155,9 @@ The complete customer journey should be:
 
 ---
 
-# **11\. CUSTOMER FEATURES**
+# **7\. CUSTOMER FEATURES**
 
-## **11.1 Registration**
+## **7.1 Registration**
 
 Users can register using:
 
@@ -216,7 +169,7 @@ Users should verify their phone number and email.
 
 ---
 
-# **12\. Guest Verification**
+# **8\. Guest Verification**
 
 Users can optionally or, where required, complete identity verification.
 
@@ -236,7 +189,7 @@ The system should not unnecessarily expose sensitive identity information to pro
 
 ---
 
-# **13\. Guest Trust Profile**
+# **9\. Guest Trust Profile**
 
 Customers should have a trust profile showing non-sensitive information such as:
 
@@ -258,7 +211,7 @@ Example:
 
 ---
 
-# **14\. Property Search**
+# **10\. Property Search**
 
 Users can search by:
 
@@ -286,7 +239,7 @@ Examples:
 
 ---
 
-# **15\. Search Filters**
+# **11\. Search Filters**
 
 Filters should include:
 
@@ -345,7 +298,7 @@ Filters should include:
 
 ---
 
-# **16\. Property Discovery**
+# **12\. Property Discovery**
 
 Each property should have a professional listing page containing:
 
@@ -369,7 +322,7 @@ Each property should have a professional listing page containing:
 
 ---
 
-# **17\. IDEALTIME VERIFIED STAY**
+# **13\. IDEALTIME VERIFIED STAY**
 
 A major product feature.
 
@@ -395,7 +348,7 @@ The listing can show:
 
 ---
 
-# **18\. PROPERTY REALITY CHECK**
+# **14\. PROPERTY REALITY CHECK**
 
 Idealtime should provide a structured verification process.
 
@@ -418,7 +371,7 @@ Where appropriate, inspection records should be retained internally.
 
 ---
 
-# **19\. IDEALTIME READY**
+# **15\. IDEALTIME READY**
 
 A separate status from verification.
 
@@ -440,7 +393,7 @@ This can include:
 
 ---
 
-# **20\. Property Trust Profile**
+# **16\. Property Trust Profile**
 
 Each eligible property should have a trust profile showing:
 
@@ -456,7 +409,7 @@ Sensitive information must not be publicly exposed.
 
 ---
 
-# **21\. PROPERTY COMPARISON**
+# **17\. PROPERTY COMPARISON**
 
 Customers can select multiple properties and compare:
 
@@ -479,7 +432,7 @@ This should help customers make informed decisions before booking.
 
 ---
 
-# **22\. AVAILABILITY CALENDAR**
+# **18\. AVAILABILITY CALENDAR**
 
 Every property should have an availability calendar.
 
@@ -493,7 +446,7 @@ Confirmed bookings should automatically block the relevant dates.
 
 ---
 
-# **23\. TRANSPARENT PRICING**
+# **19\. TRANSPARENT PRICING**
 
 The app should display the complete cost before payment.
 
@@ -519,7 +472,7 @@ Customers should clearly understand which charges are refundable and which are n
 
 ---
 
-# **24\. BOOKING OPTIONS**
+# **20\. BOOKING OPTIONS**
 
 Depending on property and business rules:
 
@@ -549,7 +502,7 @@ Available for approved corporate customers.
 
 ---
 
-# **25\. BOOK FOR SOMEONE ELSE**
+# **21\. BOOK FOR SOMEONE ELSE**
 
 Customers should be able to book accommodation for another person.
 
@@ -567,7 +520,7 @@ The guest receives the relevant booking and check-in information.
 
 ---
 
-# **26\. BOOKING CONFIRMATION**
+# **22\. BOOKING CONFIRMATION**
 
 After successful booking:
 
@@ -588,7 +541,7 @@ Example:
 
 ---
 
-# **27\. DIGITAL RECEIPTS**
+# **23\. DIGITAL RECEIPTS**
 
 The app generates a digital receipt containing:
 
@@ -605,7 +558,7 @@ The app generates a digital receipt containing:
 
 ---
 
-# **28\. MY BOOKINGS**
+# **24\. MY BOOKINGS**
 
 Customers can see:
 
@@ -621,7 +574,7 @@ Each booking contains relevant information and support options.
 
 ---
 
-# **29\. STAY TIMELINE**
+# **25\. STAY TIMELINE**
 
 Each booking should have a dedicated timeline.
 
@@ -651,7 +604,7 @@ This becomes the customer's central stay-management screen.
 
 ---
 
-# **30\. WHATSAPP INTEGRATION**
+# **26\. WHATSAPP INTEGRATION**
 
 Because WhatsApp is widely used by Nigerian customers and property managers, Idealtime should support WhatsApp notifications.
 
@@ -669,7 +622,7 @@ However, the official booking and payment record should remain within Idealtime.
 
 ---
 
-# **31\. CUSTOMER-PROPERTY COMMUNICATION**
+# **27\. CUSTOMER-PROPERTY COMMUNICATION**
 
 Users can communicate with property owners/managers through an in-app messaging system.
 
@@ -686,7 +639,7 @@ Sensitive payment activities should remain within the official booking/payment s
 
 ---
 
-# **32\. IDEALTIME SUPPORT**
+# **28\. IDEALTIME SUPPORT**
 
 Customers should have access to:
 
@@ -704,7 +657,7 @@ Customers should have access to:
 
 ---
 
-# **33\. INCIDENT REPORTING**
+# **29\. INCIDENT REPORTING**
 
 During a stay, customers can report:
 
@@ -737,7 +690,7 @@ Status:
 
 ---
 
-# **34\. IDEALTIME STAY PROTECTION**
+# **30\. IDEALTIME STAY PROTECTION**
 
 Idealtime should establish a formal customer protection policy for eligible bookings.
 
@@ -754,7 +707,7 @@ The exact financial and legal terms should be established before launch.
 
 ---
 
-# **35\. CHECK-IN AND CHECK-OUT**
+# **31\. CHECK-IN AND CHECK-OUT**
 
 Customers should receive:
 
@@ -776,7 +729,7 @@ Customers should receive:
 
 ---
 
-# **36\. REVIEWS**
+# **32\. REVIEWS**
 
 After a completed stay, customers can review:
 
@@ -794,9 +747,9 @@ Reviews should be connected to completed bookings to reduce fake reviews.
 
 ---
 
-# **37\. PROPERTY OWNER DASHBOARD**
+# **33\. HOST DASHBOARD**
 
-Owners should have:
+Hosts should have:
 
 ### **Dashboard**
 
@@ -810,9 +763,9 @@ Owners should have:
 
 ---
 
-# **38\. PROPERTY MANAGEMENT**
+# **34\. PROPERTY MANAGEMENT**
 
-Owners/managers can:
+Hosts can:
 
 * Add properties  
 * Edit properties  
@@ -827,13 +780,13 @@ Owners/managers can:
 
 ---
 
-# **39\. MULTIPLE PROPERTY MANAGEMENT**
+# **35\. MULTIPLE PROPERTY MANAGEMENT**
 
-Property managers should be able to manage several properties from one account.
+Hosts should be able to manage several properties from one account.
 
 Example:
 
-**Manager Account**
+**Host Account**
 
 Property 1 — Omole
 
@@ -845,9 +798,9 @@ Property 4 — Ikeja
 
 ---
 
-# **40\. CLEANING MANAGEMENT**
+# **36\. CLEANING MANAGEMENT**
 
-Property managers can create cleaning tasks.
+Hosts can create cleaning tasks.
 
 Example:
 
@@ -869,7 +822,7 @@ Cleaner uploads completion photos
 
 ↓
 
-Manager approves
+Host approves
 
 ↓
 
@@ -879,9 +832,9 @@ Property becomes:
 
 ---
 
-# **41\. MAINTENANCE MANAGEMENT**
+# **37\. MAINTENANCE MANAGEMENT**
 
-Property managers can record:
+Hosts can record:
 
 * Electrical issues  
 * Plumbing  
@@ -903,9 +856,9 @@ Each issue can have:
 
 ---
 
-# **42\. OWNER REVENUE DASHBOARD**
+# **38\. HOST REVENUE DASHBOARD**
 
-Owners should be able to see:
+Hosts should be able to see:
 
 * Total bookings  
 * Gross revenue  
@@ -918,9 +871,11 @@ Owners should be able to see:
 
 ---
 
-# **43\. AGENT DASHBOARD**
+# **39\. AGENT-HOST VIEW**
 
-Verified agents can:
+Agent-hosts use the same host tools, plus client and commission views:
+
+Agent-hosts can:
 
 * Manage customers  
 * Search properties  
@@ -930,13 +885,13 @@ Verified agents can:
 * Manage clients  
 * View transaction history
 
-Agents should only list properties they are authorized to represent.
+Agent-hosts should only list properties they are authorized to represent.
 
 ---
 
-# **44\. CORPORATE IDEALTIME**
+# **40\. CORPORATE IDEALTIME**
 
-A dedicated corporate accommodation solution.
+Guest-side business profiles for companies booking accommodation (not a separate user group).
 
 ## **Idealtime Business**
 
@@ -955,7 +910,7 @@ Companies can:
 
 ---
 
-# **45\. CORPORATE BOOKING**
+# **41\. CORPORATE BOOKING**
 
 Example:
 
@@ -977,7 +932,7 @@ The company can maintain records of the booking.
 
 ---
 
-# **46\. IDEALTIME TRAVEL SERVICES**
+# **42\. IDEALTIME TRAVEL SERVICES**
 
 Idealtime should eventually integrate accommodation with:
 
@@ -1001,7 +956,7 @@ These can be offered as optional services during or after booking.
 
 ---
 
-# **47\. STAY BUNDLES**
+# **43\. STAY BUNDLES**
 
 Customers can purchase accommodation together with additional services.
 
@@ -1025,7 +980,7 @@ The customer can book the package through Idealtime.
 
 ---
 
-# **48\. AIRPORT-TO-APARTMENT JOURNEY**
+# **44\. AIRPORT-TO-APARTMENT JOURNEY**
 
 The app should eventually support:
 
@@ -1055,7 +1010,7 @@ This creates an end-to-end travel experience.
 
 ---
 
-# **49\. PROMOTIONS**
+# **45\. PROMOTIONS**
 
 Property owners and Idealtime can create:
 
@@ -1070,7 +1025,7 @@ Property owners and Idealtime can create:
 
 ---
 
-# **50\. PERSONALIZED RECOMMENDATIONS**
+# **46\. PERSONALIZED RECOMMENDATIONS**
 
 The platform can eventually recommend properties based on:
 
